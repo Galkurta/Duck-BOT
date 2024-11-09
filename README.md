@@ -48,11 +48,7 @@ query_id=
 
 ### Setting up authorization files
 
-1. Register on DuckChain using this link:
-
-```
-https://t.me/DuckChain_bot/quack?startapp=vU81rJH9
-```
+1. Register on [DuckChain](https://t.me/DuckChain_bot/quack?startapp=vU81rJH9) and start the bot.
 
 2. Getting Bot Authorization:
 
