@@ -70,13 +70,9 @@ query_id=
 ### File Structure Example:
 
 ```plaintext
-auth.txt:
-query_id=
-query_id=
-
+auth.txt
+data.txt
 wallet.txt:
-0x1234567890abcdef1234567890abcdef12345678
-0x1234567890abcdef1234567890abcdef12345678
 ```
 
 ## Usage
