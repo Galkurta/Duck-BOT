@@ -72,7 +72,7 @@ query_id=
 ```plaintext
 auth.txt
 data.txt
-wallet.txt:
+wallet.txt
 ```
 
 ## Usage
